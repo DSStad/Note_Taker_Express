@@ -8,5 +8,10 @@
         "title": "trial with proper id",
         "text": "no longer using note_id but rather id",
         "id": "bffad8aa-25b2-4adc-a7b6-9b6bddc31c5b"
+    },
+    {
+        "title": "insomnia note",
+        "text": "test insomnia note",
+        "id": "1e8c95bb-8aab-4fdb-ba02-131573574e7d"
     }
 ]
